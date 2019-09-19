@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@avian-aero/logzio-nodejs@^1.0.3":
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/@avian-aero/logzio-nodejs/-/logzio-nodejs-1.0.9.tgz#a8b6d3bd9e7986af613945f8eb0229c006e6d9d9"
-  integrity sha512-oGpoRQjf6cqTAAl/6ofOunTZGPDWM63iSZiH6APvQiq4pHAYgkafIOaDSr/ushXh3srpiovAinFOO5VmLylEDA==
+"@avian-aero/logzio-nodejs@^1.0.10":
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/@avian-aero/logzio-nodejs/-/logzio-nodejs-1.0.10.tgz#87b07078922a18628a2e44df4c2e5e763c7920a5"
+  integrity sha512-USlzTh6D7eFDcLcZKJCQUXOYUnFrRoSItBU3Lb9HEkwzaF626+UdNHoUhR9YKw8/5aRNsFTlVw5x46oiIiJO8Q==
   dependencies:
     json-stringify-safe "5.0.1"
     lodash.assign "4.2.0"
