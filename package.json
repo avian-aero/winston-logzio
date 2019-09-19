@@ -1,7 +1,7 @@
 {
   "name": "@avian-aero/winston-logzio",
   "description": "A winston transport wrapper for logzio",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "author": "Gilly Barr <gilly@logz.io>",
   "contributors": [
     {
